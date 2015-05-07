@@ -1,19 +1,37 @@
 # Awesome REST
 
-This is a link repository centralizing resources, tools and frameworks about REST architecture. Feel free to contribute to this ongoing list.
+Following the `awesome-*` trend, here is a set of resources related to REST API. Feel free to contribute to this on-going list.
 
 ## Designing
 
+* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/): a full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Haters gonna HATEOAS](http://timelessrepo.com/haters-gonna-hateoas): a clear explanation on what HATEOAS is, and why you should use it.
 * [RAML](http://raml.org/): a simple and succinct way to describe RESTful API
+* [JSON API](http://jsonapi.org/): a standard for building APIs in JSON
 
-## Building
+## Consuming
+
+### PHP
+
+* [Guzzle](http://guzzle.readthedocs.org/en/latest/): HTTP client and framework for consuming RESTful web services
+* [Buzz](https://github.com/kriswallsmith/buzz): another lightweight HTTP client
 
 ### JavaScript
 
 * [restangular](https://github.com/mgonto/restangular): AngularJS service to handle REST API properly and easily
 * [restful.js](https://github.com/marmelab/restful.js): a JS client for interacting with server-side RESTful resources
+
+### Ruby
+
+* [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+* [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+
+### Go
+* [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+
+## Building
 
 ### Node.js
 
@@ -24,9 +42,14 @@ This is a link repository centralizing resources, tools and frameworks about RES
 
 ### PHP
 
+* [Microrest](https://github.com/marmelab/microrest.php): a micro-web application providing a REST API on top of any relational database
+* [Negotiation](https://github.com/willdurand/Negotiation) - A content negotiation library.
+* [Drest](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
+* [Restler](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
+* [HAL](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
+* [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [phprest](https://github.com/phprest/phprest): specialized REST microframework for PHP
 * [Hateoas](https://github.com/willdurand/Hateoas): a PHP library to support implementing representations for HATEOAS REST web services
-* [Microrest](https://github.com/marmelab/microrest.php): a micro-web application providing a REST API on top of any relational database
 
 #### Symfony2
 
@@ -36,18 +59,45 @@ This is a link repository centralizing resources, tools and frameworks about RES
 * [Lionframe](http://lakion.com/lionframe): a glu between several community libraries to ease API development
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle): integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition): start with a Symfony2 application with all REST-friendly bundles pre-configured
+* [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle): boostrap ng-admin configuration based on `stanlemon/rest-bundle`
+
+### Python
+
+* [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
+* [flask-restful](http://flask-restful.readthedocs.org/) - An extension for Flask that adds support for quickly building REST APIs.
+* [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - A Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
+* [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+* [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
+* [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others)
+
+### Ruby
+
+* [Grape](http://intridea.github.io/grape) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 
 ### Go
 
 * [go-json-rest](https://github.com/ant0ine/go-json-rest): a thin layer on top of `net/http` that helps building RESTufmigl API easily
+* [sleepy](https://github.com/dougblack/sleepy): a RESTful micro-framework written in Go
+* [restit](https://github.com/yookoala/restit) - A Go micro framework to help writing RESTful API integration test
+* [go-relax](https://github.com/codehack/go-relax) - A framework of pluggable components to build RESTful API's
+* [go-rest](https://github.com/ungerik/go-rest) - A small and evil REST framework for Go
+* [Goat](https://github.com/bahlo/goat) - A minimalistic REST API server in Go
+* [Resoursea](https://github.com/resoursea/api) - A REST framework for quickly writing resource based services.
+* [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
 ## Testing
 
+### Querying
+
 * [httpie](https://github.com/jakubroztocil/httpie): a command line HTTP client, far more dev-friendly than `curl`
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm): a Chrome extension essential to test manually REST API
+* [resty](https://github.com/micha/resty): little command line REST client that you can use in pipelines (bash or zsh)
+* [jq](https://github.com/stedolan/jq): command line JSON processor
+
+### Mocking
+
 * [FakeRest](https://github.com/marmelab/FakeRest): patch XMLHttpRequest to fake a REST API client-side
 * [json-server](https://github.com/typicode/json-server): serve a REST API from fixture files using quick prototyping
-* [resty](https://github.com/micha/resty): little command line REST client that you can use in pipelines (bash or zsh)
 
 ## REST based-tools
 
