@@ -34,13 +34,16 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/): a full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) by the famous Martin Fowler
-* [Haters gonna HATEOAS](http://timelessrepo.com/haters-gonna-hateoas): a clear explanation on what HATEOAS is, and why you should use it.
+* [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas): a clear explanation on what HATEOAS is, and why you should use it.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 
 ## Standards
 
-* [RAML](http://raml.org/): a simple and succinct way to describe RESTful API
 * [JSON API](http://jsonapi.org/): a standard for building APIs in JSON
+* [RAML](http://raml.org/): a simple and succinct way to describe RESTful API
+* [JSend](http://labs.omniti.com/labs/jsend): a simple specification that lays down some rules for how JSON responses from web servers should be formatted
+* [OData](http://www.odata.org/): an open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* [HAL](http://stateless.co/hal_specification.html): a simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
 
 ## Clients
 
