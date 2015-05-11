@@ -45,7 +45,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [OData](http://www.odata.org/) - an open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](http://stateless.co/hal_specification.html) - a simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) JSON-LD Web site
-* [Hydra](http://www.hydra-cg.com/) HYDRA W3C Specification
+* [Hydra](http://www.hydra-cg.com/) A Vocabulary for Hypermedia-Driven Web APIs (W3C)
 
 ## Clients
 
