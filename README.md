@@ -75,7 +75,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Servers
 
-## Directly On Top Of A RMDB
+### Directly On Top Of A RMDB
 
 * [postgrest](https://github.com/begriffs/postgrest) - serve a fully RESTful API directly from an existing PostgreSQL database
 * [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - A simple REST-like / CRUD server for any MySQL database
