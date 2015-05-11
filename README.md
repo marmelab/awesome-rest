@@ -16,7 +16,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [PHP](#php)
   * [Symfony2](#symfony2)
   * [Python](#python)
-  * [Ruby](#ruby]
+  * [Ruby](#ruby)
   * [Go](#go)
 * [Testing](#testing)
   * [Querying](#querying)
