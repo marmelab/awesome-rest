@@ -44,6 +44,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [JSend](http://labs.omniti.com/labs/jsend) - a simple specification that lays down some rules for how JSON responses from web servers should be formatted
 * [OData](http://www.odata.org/) - an open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](http://stateless.co/hal_specification.html) - a simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
+* [JSON-LD](http://json-ld.org/) JSON-LD Web site
+* [Hydra](http://www.hydra-cg.com/) HYDRA W3C Specification
 
 ## Clients
 
