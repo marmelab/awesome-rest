@@ -109,6 +109,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - start with a Symfony2 application with all REST-friendly bundles pre-configured
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - boostrap ng-admin configuration based on `stanlemon/rest-bundle`
+* [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - build a REST API which follow Hydra/JSON-LD specification
 
 ### Python
 
