@@ -2,6 +2,32 @@
 
 A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
 
+* [Design](#design)
+* [Standards](#standards)
+* [Clients](#clients)
+  * [PHP](#php-clients)
+  * [Client-side JavaScript](#javascript-clients)
+  * [Node.js](#nodejs-clients)
+  * [Ruby](#ruby-clients)
+  * [Go](#go-clients)
+* [Servers](#servers)
+  * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
+  * [Node.js](#nodejs)
+  * [PHP](#php)
+  * [Symfony2](#symfony2)
+  * [Python](#python)
+  * [Ruby](#ruby]
+  * [Go](#go)
+* [Testing](#testing)
+  * [Querying](#querying)
+  * [Mocking](#mocking)
+  * [Public REST APIs To Use In Tests](public-rest-apis-to-use-in-tests)
+* [Documentation](#documentation)
+* [SaaS Tools](#sass-tools)
+* [Miscellaneous](#miscellaneous)
+
+
+
 ## Design
 
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
@@ -18,29 +44,29 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Clients
 
-### PHP
+### PHP Clients
 
 * [Guzzle](http://guzzle.readthedocs.org/en/latest/): HTTP client and framework for consuming RESTful web services
 * [Buzz](https://github.com/kriswallsmith/buzz): another lightweight HTTP client
 * [unirest for PHP](https://github.com/Mashape/unirest-php): Simplified, lightweight HTTP client library
 
-### Client-Side JavaScript
+### JavaScript Clients
 
 * [restangular](https://github.com/mgonto/restangular): AngularJS service to handle REST API properly and easily
 * [restful.js](https://github.com/marmelab/restful.js): a JS client for interacting with server-side RESTful resources
 
-### Node.js
+### Node.js Clients
 
  * [restler](https://github.com/danwrong/restler): REST client library for node.js
  * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs): Simplified, lightweight HTTP client library
 
-### Ruby
+### Ruby Clients
 
 * [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 
-### Go
+### Go Clients
 
 * [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 
@@ -119,7 +145,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [FakeRest](https://github.com/marmelab/FakeRest): patch XMLHttpRequest to fake a REST API client-side
 * [json-server](https://github.com/typicode/json-server): serve a REST API from fixture files using quick prototyping
 
-## Public REST APIs To Use In Tests
+### Public REST APIs To Use In Tests
 
 * [Public APIS](https://www.publicapis.com/): Explore The Largest API Directory In The Galaxy
 * [Marvel Comics API](http://developer.marvel.com/): query characters, stories, events about Marvel superheroes
