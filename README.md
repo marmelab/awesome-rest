@@ -58,6 +58,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [mers](https://github.com/jspears/mers): an Express service to expose Mongoose finders as RESTful API
 * [Baucis](https://github.com/wprl/baucis): build scalable REST API based on your Mongoose entities
 * [flatiron/resourceful](https://github.com/flatiron/resourceful): an isomorphic Resource engine for JavaScript
+* [loopback](http://loopback.io/): powerful Node.js framework for creating APIs and easily connecting to backend data sources
 
 ### PHP
 
@@ -120,12 +121,14 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Public REST APIs To Use In Tests
 
+* [Public APIS](https://www.publicapis.com/): Explore The Largest API Directory In The Galaxy
 * [Marvel Comics API](http://developer.marvel.com/): query characters, stories, events about Marvel superheroes
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/): a free online REST service that you can use whenever you need some fake data.
 
 ## Documentation 
 
 * [Swagger](http://swagger.io/): Documentation/querying web interface for REST APIs
+* [API doc](http://apidocjs.com/): Inline Documentation for RESTful web APIs
 
 ## SaaS tools
 
