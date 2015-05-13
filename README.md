@@ -44,8 +44,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [JSend](http://labs.omniti.com/labs/jsend) - a simple specification that lays down some rules for how JSON responses from web servers should be formatted
 * [OData](http://www.odata.org/) - an open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](http://stateless.co/hal_specification.html) - a simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
-* [JSON-LD](http://json-ld.org/) JSON-LD Web site
-* [Hydra](http://www.hydra-cg.com/) A Vocabulary for Hypermedia-Driven Web APIs (W3C)
+* [JSON-LD](http://json-ld.org/) - a standard to describe Linked Data and hypermedia relations in JSON (W3C)
+* [Hydra](http://www.hydra-cg.com/) - a vocabulary for Hypermedia-Driven Web APIs (W3C)
+* [Schema.org](http://schema.org) - a collection of schemas describing common data models
 
 ## Clients
 
@@ -101,6 +102,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [phprest](https://github.com/phprest/phprest) - specialized REST microframework for PHP
 * [Hateoas](https://github.com/willdurand/Hateoas) - a PHP library to support implementing representations for HATEOAS REST web services
+* [PHP Schema](http://php-schema.dunglas.com) - a generator of PHP data model using schemas from Schema.org
 
 #### Symfony2
 
@@ -112,6 +114,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - start with a Symfony2 application with all REST-friendly bundles pre-configured
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - boostrap ng-admin configuration based on `stanlemon/rest-bundle`
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - build a REST API which follow Hydra/JSON-LD specification
+* [API Platform](https://github.com/dunglas/api-platform) - a Symfony edition specialized in the creation of hypermedia REST APIs
 
 ### Python
 
