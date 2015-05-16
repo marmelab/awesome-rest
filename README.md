@@ -21,7 +21,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
-  * [Public REST APIs To Use In Tests](public-rest-apis-to-use-in-tests)
+  * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 * [Documentation](#documentation)
 * [SaaS Tools](#saas-tools)
 * [Miscellaneous](#miscellaneous)
