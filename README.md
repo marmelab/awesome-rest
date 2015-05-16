@@ -153,6 +153,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [FakeRest](https://github.com/marmelab/FakeRest) - patch XMLHttpRequest to fake a REST API client-side
 * [json-server](https://github.com/typicode/json-server) - serve a REST API from fixture files using quick prototyping
+* [Mocky.io](http://www.mocky.io/) - free online service to create fake HTTP responses 
 
 ### Public REST APIs To Use In Tests
 
