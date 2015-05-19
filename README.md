@@ -30,6 +30,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Design
 
+* [Architectural Styles and
+the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST.
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - a full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
