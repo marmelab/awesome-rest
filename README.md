@@ -120,6 +120,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Python
 
+* [Django REST framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 * [flask-restful](http://flask-restful.readthedocs.org/) - An extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - A Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
