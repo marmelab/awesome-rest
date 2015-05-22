@@ -178,3 +178,4 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ## Miscellaneous
 
 * [ng-admin](https://github.com/marmelab/ng-admin) - add an AngularJS admin GUI to any RESTful API
+* [Build APIs You Won't Hate](http://apisyouwonthate.com/) - Ebook about planning, implementing, and testing your API.
