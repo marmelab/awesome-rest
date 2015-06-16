@@ -18,6 +18,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Python](#python)
   * [Ruby](#ruby)
   * [Go](#go)
+  * [Java](#java)
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
@@ -142,6 +143,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Goat](https://github.com/bahlo/goat) - A minimalistic REST API server in Go
 * [Resoursea](https://github.com/resoursea/api) - A REST framework for quickly writing resource based services.
 * [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
+
+### Java
+
+* [RestExpress](https://github.com/RestExpress/RestExpress) - A netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 
 ## Testing
 
