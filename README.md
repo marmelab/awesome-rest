@@ -135,6 +135,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Go
 
+* [gocrud](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) - a thin layer on top of `net/http` that helps building RESTufmigl API easily
 * [sleepy](https://github.com/dougblack/sleepy) - a RESTful micro-framework written in Go
 * [restit](https://github.com/yookoala/restit) - A Go micro framework to help writing RESTful API integration test
