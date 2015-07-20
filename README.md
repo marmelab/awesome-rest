@@ -167,6 +167,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Public REST APIs To Use In Tests
 
+* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - the world's largest API repository
 * [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy
 * [Marvel Comics API](http://developer.marvel.com/) - query characters, stories, events about Marvel superheroes
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - a free online REST service that you can use whenever you need some fake data.
