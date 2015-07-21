@@ -157,6 +157,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - a Chrome extension essential to test manually REST API
 * [resty](https://github.com/micha/resty) - little command line REST client that you can use in pipelines (bash or zsh)
 * [jq](https://github.com/stedolan/jq) - command line JSON processor, to use in combination with a command-line HTTP client like cURL
+* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 
 ### Mocking
 
