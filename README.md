@@ -63,6 +63,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily.
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
+* [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 
 ### Node.js Clients
 
