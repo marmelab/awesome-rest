@@ -142,6 +142,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
 * [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 * [go-rest](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
+* [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 * [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
