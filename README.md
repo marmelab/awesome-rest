@@ -95,6 +95,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework.
 
 ### PHP
 
