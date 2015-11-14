@@ -89,7 +89,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Node.js
 
-* [node-restify](https://github.com/mcavage/node-restify) - Framework specifically meant for REST API.
+* [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 * [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
@@ -119,7 +119,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
-* [API Platform](https://github.com/dunglas/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
+* [API Platform](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 
 ### Python
 
@@ -133,7 +133,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Ruby
 
-* [Grape](http://intridea.github.io/grape) - Opinionated micro-framework for creating REST-like APIs in Ruby.
+* [Grape](http://intridea.github.io/grape/) - Opinionated micro-framework for creating REST-like APIs in Ruby.
 
 ### Go
 
@@ -156,7 +156,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Querying
 
-* [httpie](https://github.com/jakubroztocil/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+* [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 * [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
