@@ -161,6 +161,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 * [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
+* [Paw (HTTP & REST client)](https://luckymarmot.com/paw) - Native HTTP client on Mac to test REST APIs. Supports Basic Auth, OAuth 1 / 2, imports Swagger and API Blueprint definitions.
 
 ### Mocking
 
