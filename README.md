@@ -19,7 +19,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Ruby](#ruby)
   * [Go](#go)
   * [Java](#java)
-  * [Delphi](#Delphi)
+  * [Delphi](#delphi)
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
