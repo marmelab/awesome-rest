@@ -19,6 +19,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Ruby](#ruby)
   * [Go](#go)
   * [Java](#java)
+  * [Haskell](#haskell)
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
@@ -152,6 +153,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Java
 
 * [RestExpress](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+
+### Haskell
+* [Rest for Haskell](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
 ## Testing
 
