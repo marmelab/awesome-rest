@@ -153,6 +153,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Java
 
 * [RestExpress](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+* [spring-rest-service](https://github.com/yusufcakmak/spring-rest-service) - This example project shows you how to build a REST Service with Spring MVC and Hibernate.
 
 ### Haskell
 * [Rest for Haskell](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
