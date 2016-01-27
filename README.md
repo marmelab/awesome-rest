@@ -161,6 +161,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Querying
 
+* [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
+* [RequestBin](http://requestb.in/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 * [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
@@ -176,7 +178,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 
 ### Public REST APIs To Use In Tests
-
+* [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+* [Deck of Cards API)(http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
 * [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
