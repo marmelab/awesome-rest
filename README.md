@@ -179,7 +179,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Public REST APIs To Use In Tests
 * [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
-* [Deck of Cards API)(http://deckofcardsapi.com) - Open API for simulating a deck of cards.
+* [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
 * [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
