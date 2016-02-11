@@ -51,6 +51,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
 * [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
 * [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [API Blueprint](https://apiblueprint.org/) - A powerful high-level API description language for web APIs.
 
 ## Clients
 
