@@ -40,6 +40,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) by the famous Martin Fowler
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - Clear explanation on what HATEOAS is, and why you should use it.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
+* [Microservices, Unix philosophy, and the Richardson Maturity Model](https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826#.om60ierzn)
 
 ## Standards
 
