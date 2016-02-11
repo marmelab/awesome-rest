@@ -132,6 +132,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+* [Ramses](https://ramses.readthedocs.org/en/stable/) - makes RAML files executable by generating production-ready APIs from them at runtime
 
 ### Ruby
 
