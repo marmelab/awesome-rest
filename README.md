@@ -109,7 +109,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 * [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 * [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
-* [PHP Schema](http://php-schema.dunglas.com) - Generator of PHP data model using schemas from Schema.org.
 
 #### Symfony2
 
