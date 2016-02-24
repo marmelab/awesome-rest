@@ -51,6 +51,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
 * [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
 * [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
 
 ## Clients
 
@@ -205,6 +206,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ## Miscellaneous
 
 * [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
+* [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI speification (formerly known as the Swagger Specification).
 
 ## License
 
