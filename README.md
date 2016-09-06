@@ -86,6 +86,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Go Clients
 
 * [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## Servers
 
