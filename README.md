@@ -181,6 +181,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 * [Http-console](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
+* [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
 ### Mocking
 
