@@ -216,6 +216,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
+* [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 
 
 ## Miscellaneous
