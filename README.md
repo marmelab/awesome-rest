@@ -17,6 +17,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Symfony2](#symfony2)
   * [Python](#python)
   * [Ruby](#ruby)
+  * [Rust](#rust)
   * [Go](#go)
   * [Java](#java)
   * [Haskell](#haskell)
@@ -149,6 +150,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [Grape](http://intridea.github.io/grape/) - Opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails](http://edgeguides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
+
+### Rust
+
+* [Iron](https://github.com/iron/iron) - Extensible, concurrent web framework for Rust.
+* [Nickel.rs](https://github.com/nickel-org/nickel.rs) - Expressjs inspired web framework for Rust.
+* [Pencil](https://github.com/fengsp/pencil) - Web application microframework for Rust.
 
 ### Go
 
