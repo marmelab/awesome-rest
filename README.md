@@ -138,6 +138,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 * [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
+* [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
 * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
