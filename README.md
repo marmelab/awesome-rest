@@ -69,6 +69,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+* [SuperAgent](https://github.com/visionmedia/superagent) - Light-weight progressive ajax API crafted for flexibility, readability.
 
 ### Node.js Clients
 
@@ -106,6 +107,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 * [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 * [Expressa](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### PHP
 
