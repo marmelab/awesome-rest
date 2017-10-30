@@ -224,7 +224,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
-* [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
