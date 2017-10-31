@@ -227,13 +227,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-* [SWAPI](https://swapi.co/) - All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species.
-* [STAPI](https://stapi.co/) - STAPI is a public Star Trek API, currently in it's alpha stage. It was inspired by Star Wars API and Pokéapi.
-* [Pokéapi](https://pokeapi.co/) - This provides a RESTful API interface to highly detailed objects built from thousands of lines of data related to Pokémon.
-* [Dog API](https://dog.ceo/dog-api/) - Brought to you by Dog CEO using the Stanford Dogs Dataset.
-* [Punk API](https://punkapi.com/) - Have you ever wanted to search through Brewdog's expansive back catalogue of beer in a programmatic way?
-* [PotterAPI](http://potterapi.herokuapp.com/) - PotterAPI is a RESTful web API providing data on all your favourite Books, Films, Characters and Spells.
-* [PaleobioDB](https://paleobiodb.org/) - Dinosaurs! The Paleobiology Database (PBDB) is a non-governmental, non-profit public resource for paleontological data.
 
 ## License
 
