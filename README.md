@@ -145,7 +145,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
 * [Flask-Potion](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
-* [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
+* [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ### Ruby
 
@@ -196,6 +196,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+* [Beeceptor](http://beeceptor.com/) - An HTTP debugging and mocking service for hosted rest APIs. Build mock APIs, debug webhooks or inspect HTTP requests.
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
