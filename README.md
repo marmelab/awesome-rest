@@ -151,8 +151,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Ruby
 
-* [Grape](http://intridea.github.io/grape/) - Opinionated micro-framework for creating REST-like APIs in Ruby.
-* [Rails](http://edgeguides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
+* [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
+* [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
 
 ### Go
 
