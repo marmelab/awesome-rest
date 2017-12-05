@@ -23,11 +23,10 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
-  * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 * [Documentation](#documentation)
 * [SaaS Tools](#saas-tools)
 * [Miscellaneous](#miscellaneous)
-
+* [Public REST APIs](#public-rest-apis)
 
 
 ## Design
@@ -199,14 +198,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
-### Public REST APIs To Use In Tests
-* [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
-* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
-* [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
-* [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
-* [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-
 ## Documentation
 
 * [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
@@ -224,13 +215,20 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 
-
 ## Miscellaneous
 
 * [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 * [admin-on-rest](https://github.com/marmelab/admin-on-rest) - Add a ReactJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 * [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
+
+## Public REST APIs
+
+* [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
+* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
+* [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
+* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
+* [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 
 ## License
 
