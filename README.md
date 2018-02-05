@@ -25,6 +25,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Mocking](#mocking)
   * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 * [Documentation](#documentation)
+* [Management](#management)
 * [SaaS Tools](#saas-tools)
 * [Miscellaneous](#miscellaneous)
 
@@ -213,6 +214,16 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+
+## Management
+
+* [Kong](https://github.com/Kong/kong)
+* [apiman](https://github.com/apiman/apiman)
+* [API Umbrella](https://github.com/NREL/api-umbrella)
+* [Tyk API Gateway](https://github.com/TykTechnologies/tyk)
+* [KrakenD](https://github.com/devopsfaith/krakend)
+* [WSO2 API Management](https://github.com/wso2/product-apim)
+* [3scale APIcast](https://www.3scale.net/)
 
 ## SaaS tools
 
