@@ -217,13 +217,14 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Management
 
-* [Kong](https://github.com/Kong/kong)
-* [apiman](https://github.com/apiman/apiman)
-* [API Umbrella](https://github.com/NREL/api-umbrella)
-* [Tyk API Gateway](https://github.com/TykTechnologies/tyk)
-* [KrakenD](https://github.com/devopsfaith/krakend)
-* [WSO2 API Management](https://github.com/wso2/product-apim)
-* [3scale APIcast](https://www.3scale.net/)
+
+* [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+* [KrakenD](https://github.com/devopsfaith/krakend) - High performance API gateway with middlewares, written in Go.
+* [apiman](https://github.com/apiman/apiman) - Standalone and embeddable API management with web interface, written in Java.
+* [API Umbrella](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
+* [WSO2 API Management](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle manangement, written in Java.
+* [3scale APIcast](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 
 ## SaaS tools
 
