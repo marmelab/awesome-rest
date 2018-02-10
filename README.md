@@ -25,7 +25,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Mocking](#mocking)
   * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 * [Documentation](#documentation)
-* [Management](#management)
+* [API Gateway](#api-gateway)
 * [SaaS Tools](#saas-tools)
 * [Miscellaneous](#miscellaneous)
 
@@ -215,7 +215,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 
-## Management
+## API Gateway
 
 
 * [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
