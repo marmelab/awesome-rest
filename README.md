@@ -217,16 +217,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## API Gateway
 
-
 * [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
-* [KrakenD](https://github.com/devopsfaith/krakend) - High performance API gateway with middlewares, written in Go.
-* [apiman](https://github.com/apiman/apiman) - Standalone and embeddable API management with web interface, written in Java.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle manangement, written in Java.
-* [3scale APIcast](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 
-## SaaS tools
+## SaaS Tools
 
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
@@ -234,6 +230,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
+* [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 
 
