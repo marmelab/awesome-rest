@@ -97,6 +97,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [postgrest](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
 * [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
+* [pREST](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go
 
 ### Node.js
 
