@@ -48,7 +48,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Authorization on REST APIs](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/) - Building authentication and authorization for REST APIs by Moesif.
 * [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) - REST Security Cheat Sheet by OWASP.
 * [Filtering, Sorting, and Pagination](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/) - REST API Design: Filtering, Sorting, and Pagination by Moesif.
-* [API Design Guidelines](https://zalando.github.io/restful-api-guidelines/index.html/) - REST API and Event Scheme Guidelines by Zalando.
+* [API Design Guidelines](https://zalando.github.io/restful-api-guidelines/index.html) - REST API and Event Scheme Guidelines by Zalando.
 * [API Design Overview](https://codeplanet.io/principles-good-restful-api-design/) - Principles of good REST API Design by Code Planet.
 
 ## Standards
