@@ -215,6 +215,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
+* [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 
 ## SaaS tools
 
@@ -225,6 +226,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
+* [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 
 
 ## Miscellaneous
