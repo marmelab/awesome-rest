@@ -235,6 +235,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [admin-on-rest](https://github.com/marmelab/admin-on-rest) - Add a ReactJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 * [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
+* [Programming Community Curated Resources for learning Rust](https://hackr.io/tutorials/learn-rust) - Top recommended resources.
 
 ## License
 
