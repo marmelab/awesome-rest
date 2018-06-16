@@ -72,11 +72,13 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+* [restful-model](https://github.com/faboulaws/restful-model) An isomorphic module that abstracts the process of consuming a REST APIs in a Model like style.
 
 ### Node.js Clients
 
  * [restler](https://github.com/danwrong/restler) - REST client library for node.js.
  * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+ * [restful-model](https://github.com/faboulaws/restful-model) An isomorphic module that abstracts the process of consuming a REST APIs in a Model like style.
 
 ### Ruby Clients
 
