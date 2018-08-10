@@ -151,6 +151,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
 * [Flask-Potion](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
+* [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ### Ruby
 
