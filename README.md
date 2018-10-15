@@ -111,6 +111,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 * [Expressa](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
+* [oas-tools](https://github.com/isa-group/oas-tools) - NodeJS module to manage RESTfull APIs defined with OpenAPI 3.0 Specs over express servers.
 
 ### PHP
 
