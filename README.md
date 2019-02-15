@@ -197,7 +197,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Mocking
 
-* [RequestBin](http://requestb.in/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
+* [RequestBin](http://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 * [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
