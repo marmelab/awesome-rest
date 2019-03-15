@@ -182,6 +182,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Testing
 
+* [Hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification. 
+
 ### Querying
 
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
