@@ -45,6 +45,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+* [What's my HTTP status code](https://httpstatuscode.netlify.com) -  A UI Based interface to guide you to exact web api - http specification status your server should return for any request.
 
 ## Standards
 
