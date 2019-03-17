@@ -241,7 +241,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
-
+* [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
 ## Miscellaneous
 
