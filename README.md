@@ -112,6 +112,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Expressa](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 * [oas-tools](https://github.com/isa-group/oas-tools) - NodeJS module to manage RESTfull APIs defined with OpenAPI 3.0 Specs over express servers.
+* [swagger-tools](https://github.com/apigee-127/swagger-tools) - A Node.js and browser module that provides tooling around Swagger.
 
 ### PHP
 
