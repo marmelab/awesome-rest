@@ -181,7 +181,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Scala
 
 * [Chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
-* [Play](https://www.playframework.com) - The High Velocity Web Framework For Scala and Java.
 
 
 ### Haskell
