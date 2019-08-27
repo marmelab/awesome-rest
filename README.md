@@ -200,6 +200,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [HTTP Prompt](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
 * [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 * [Insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+* [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
 ### Mocking
 
