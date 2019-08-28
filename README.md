@@ -200,6 +200,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 * [Insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
+* [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
 ### Mocking
 
