@@ -17,6 +17,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Symfony2](#symfony2)
   * [Python](#python)
   * [Ruby](#ruby)
+  * [Rust](#rust)
   * [Go](#go)
   * [Java](#java)
   * [Haskell](#haskell)
@@ -158,6 +159,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
+
+### Rust
+
+* [Rocket](https://rocket.rs/) - Rocket: Simple, Fast, Type-safe Web Framework for Rust
 
 ### Go
 
