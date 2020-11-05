@@ -45,6 +45,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+* [Documentation-driven development for APIs: what is it, how do you do it and why you should do it?](https://medium.com/python-geek/documentation-driven-development-for-apis-what-is-it-how-do-you-do-it-and-why-you-should-do-it-b6ebbf9ba371?source=friends_link&sk=9d47e26af2d931ee5733afd248c69e9c) - Article that explains how to use documentation-driven development in the implementation of REST APIs
+* [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi) - By Joshua S. Ponelat and Lukas L. Rosenstock, a hands-on primer to properly designing and describing your APIs using the most widely-adopted standard.
+* [Developing Microservice APIs with Python](https://www.manning.com/books/developing-microservice-apis-with-python) - By Jose Haro Peralta, it teaches you practical techniques for designing successful microservices with APIs that are easy to understand, consume, and maintain. Chapters 4-8.
 
 ## Standards
 
@@ -154,6 +157,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
 * [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+* [Connexion](https://github.com/zalando/connexion) - Connexion is a framework that automagically handles HTTP requests based on OpenAPI Specification of your API described in YAML format. Connexion allows you to write an OpenAPI specification, then maps the endpoints to your Python functions; this makes it unique, as many tools generate the specification based on your Python code. It works with Python 3.6+.
+* [flask-smorest](https://github.com/marshmallow-code/flask-smorest/) - flask-smorest is a REST API framework built upon Flask and marshmallow. It works with Python 3.6+.
+* [flask-restx](https://github.com/python-restx/flask-restx/) - Flask-RESTX is a community driven fork of Flask-RESTPlus. It's an extension for Flask that adds support for quickly building REST APIs. It works with Python 2.7 and 3.4+.
 
 ### Ruby
 
@@ -202,6 +208,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
+* [Dredd](https://github.com/apiaryio/dredd) - Dredd is a language-agnostic command-line tool for validating API description document against backend implementation of the API. It works with OpenAPI and can be used to test API implementation against the specation.
 
 ### Mocking
 
