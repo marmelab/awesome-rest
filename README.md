@@ -202,6 +202,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Insomnia](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ### Mocking
 
