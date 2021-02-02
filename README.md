@@ -230,6 +230,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
+* [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
 ## API Gateway
 
