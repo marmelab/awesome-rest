@@ -178,6 +178,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [RestExpress](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 * [Vertx-Web](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 * [Dropwizard](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
+* [Spring Boot](https://github.com/spring-projects/spring-boot) - Spring Boot provides a very good support to building RESTful Web Services for enterprise applications.
 
 ### Scala
 
