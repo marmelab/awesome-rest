@@ -223,6 +223,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+* [Restful-Booker](restful-booker.herokuapp.com/) - A small Web API riddled with bugs for budding testers to find.
+
+### Strategy
+* [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - A book that explores how to create and implement an API testing strategy.
 
 ## Documentation
 
