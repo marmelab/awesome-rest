@@ -224,6 +224,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 
+### Linting
+* [Spectral](https://stoplight.io/open-source/spectral) - An configurable Open Source JSON/YAML Linter.
+
 ## Documentation
 
 * [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
