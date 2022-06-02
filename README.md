@@ -57,6 +57,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
 * [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
 * [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [The Sunset HTTP Header Field](https://datatracker.ietf.org/doc/html/rfc8594) - HTTP response header field, which indicates that a URI is likely to become unresponsive at a specified point in the future.
 * [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
 
 ## Clients
