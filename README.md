@@ -203,6 +203,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 * [Milkman](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
+* [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
 ### Mocking
 
