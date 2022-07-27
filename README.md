@@ -247,6 +247,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## SaaS Tools
 
+* [Nango](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 * [import.io Magic](https://magic.import.io/) - Create a REST API from any website in one click.
