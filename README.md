@@ -11,6 +11,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Node.js](#nodejs-clients)
   * [Ruby](#ruby-clients)
   * [Go](#go-clients)
+  * [Generators](#generators)
 * [Servers](#servers)
   * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
   * [Node.js](#nodejs)
@@ -101,6 +102,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+
+### Generators
+
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## Servers
 
