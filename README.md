@@ -240,6 +240,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+* [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 
 ## Documentation
 
