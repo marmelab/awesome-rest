@@ -55,7 +55,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-* [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+* [Monite API Style Guide](https://github.com/team-monite/api-style-guide) - The Monite API guidelines, as well as the Spectral ruleset for every section to automatically check your OpenAPI files against the style guide.
+* [Zalando Restful API Guidelines](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ## Standards
 
