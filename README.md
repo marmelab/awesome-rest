@@ -284,6 +284,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 * [Lumber](https://github.com/ForestAdmin/lumber) - Generate the admin interface of your application.
+* [oas-generator](https://github.com/isa-group/oas-generator) - NodeJS RESTfull APIs scaffolding based OpenAPI 3.x specs using oas-tools and express.
 
 ## License
 
