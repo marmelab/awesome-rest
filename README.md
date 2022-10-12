@@ -222,6 +222,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 * [Milkman](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 * [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+* [Dadroit JSON Viewer](https://dadroit.com) - Search in huge (multi gigabytes) JSON and JSON log (JSON-Lines and ndjson) files.
 
 ### Mocking
 
