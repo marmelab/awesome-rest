@@ -222,6 +222,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 * [Milkman](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
 * [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
+* [Step CI](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 
 ### Mocking
 
