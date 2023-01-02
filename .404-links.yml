@@ -3,7 +3,4 @@ delay:
 ignore: 
   urls: # Array of url to ignore
   - https://swagger.io/
-  - https://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/
-  - https://lakion.com/lionframe
-  - https://tastypieapi.org/
 
