@@ -189,7 +189,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
-* [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
 ### Java
 
