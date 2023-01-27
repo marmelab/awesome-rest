@@ -6,9 +6,11 @@ on:
   pull_request:
     types: [assigned, opened, synchronize, reopened]
 jobs:
-  build:
+  check-links:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Check links
-      uses: restqa/404-links@2.2.0
+    - name: 'atalent-labs-404-links'
+      uses: atalent-labs/404-links@3.1.3
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
