@@ -39,13 +39,13 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Architectural Styles and
 the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
-* [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
-* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
-* [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
+* [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [How to design a REST API?](https://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+* [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) - Explained by Martin Fowler, originally presented by Leonard Richardson at the [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+* [Enterprise Integration Using REST](https://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
 * [HATEOAS](https://web.archive.org/web/20201111235328/timelessrepo.com/haters-gonna-hateoas) - Clear explanation on what HATEOAS is, and why you should use it.
-* [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
-* [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
+* [How to GET a cup of coffee](https://www.infoq.com/articles/webber-rest-workflow/)
+* [REST API Tutorial](https://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ### Guidelines
@@ -60,21 +60,21 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Standards
 
-* [JSON API](http://jsonapi.org/) - Standard for building APIs in JSON.
-* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
-* [JSend](http://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
-* [OData](http://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
+* [JSON API](https://jsonapi.org/) - Standard for building APIs in JSON.
+* [RAML](https://raml.org/) - Simple and succinct way to describe RESTful API.
+* [JSend](https://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+* [OData](https://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
-* [JSON-LD](http://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
-* [Hydra](http://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
-* [Schema.org](http://schema.org) - Collection of schemas describing common data models.
+* [JSON-LD](https://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
+* [Hydra](https://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
+* [Schema.org](https://schema.org) - Collection of schemas describing common data models.
 * [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
 
 ## Clients
 
 ### PHP Clients
 
-* [Guzzle](http://guzzle.readthedocs.org/en/latest/) - HTTP client and framework for consuming RESTful web services.
+* [Guzzle](https://guzzle.readthedocs.org/en/latest/) - HTTP client and framework for consuming RESTful web services.
 * [Buzz](https://github.com/kriswallsmith/buzz) - Another lightweight HTTP client.
 * [unirest for PHP](https://github.com/Mashape/unirest-php) - Simplified, lightweight HTTP client library.
 
@@ -96,7 +96,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [httparty](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
-* [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
+* [Net::HTTP](https://ruby-doc.org/3.2.0/stdlibs/net/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * [raml-ruby-client-generator](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file.
 
 ### Go Clients
@@ -129,12 +129,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Node.js
 
 * [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
-* [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
+* [Sails.js](https://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 * [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
-* [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
-* [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+* [loopback](https://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
+* [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 * [Expressa](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 * [Nestjsx/crud](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
@@ -153,7 +153,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 #### Symfony2
 
-* [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
+* [REST APIs with Symfony2: the Right Way](https://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 * [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
@@ -170,14 +170,14 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Python
 
-* [Django REST framework](http://www.django-rest-framework.org/) - Powerful and flexible toolkit that makes it easy to build Web APIs.
+* [Django REST framework](https://www.django-rest-framework.org/) - Powerful and flexible toolkit that makes it easy to build Web APIs.
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
-* [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
+* [flask-restful](https://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
-* [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
+* [hug](https://www.hug.rest/) - Lightweight and fast API Framework.
 * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
-* [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
-* [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
+* [restless](https://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
+* [Python Eve](https://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
 * [Flask-Potion](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
@@ -186,8 +186,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Ruby
 
-* [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
-* [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
+* [Grape](https://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
+* [Rails](https://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
 
 ### Go
 
@@ -200,7 +200,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
-* [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
 ### Java
 
@@ -221,10 +220,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Querying
 
 * [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
-* [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 * [jq](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
-* [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
+* [HttpMaster](https://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 * [Http-console](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 * [HTTP Prompt](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit.
 * [rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
@@ -239,30 +237,29 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Mocking
 
 * [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
-* [httpbin](http://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
+* [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
-* [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
+* [Mocky.io](https://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-* [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
 ### Public REST APIs To Use In Tests
-* [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
-* [ProgrammableWeb](http://www.programmableweb.com/apis/directory) - The world's largest API repository.
-* [Public APIS](https://www.publicapis.com/) - Explore The Largest API Directory In The Galaxy.
-* [Marvel Comics API](http://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
-* [JSON Placeholder](http://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
-* [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-* [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
+* [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
+* [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - The world's largest API repository.
+* [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+* [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
+* [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
+* [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 
 ## Documentation
 
-* [Swagger](http://swagger.io/) - Documentation/querying web interface for REST APIs.
-* [API doc](http://apidocjs.com/) - Inline Documentation for RESTful web APIs.
+* [Swagger](https://swagger.io/) - Documentation/querying web interface for REST APIs.
+* [API doc](https://apidocjs.com/) - Inline Documentation for RESTful web APIs.
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
@@ -282,7 +279,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Nango](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
-* [import.io Magic](https://magic.import.io/) - Create a REST API from any website in one click.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
@@ -302,6 +298,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](httsp://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
