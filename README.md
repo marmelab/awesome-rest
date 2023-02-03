@@ -105,13 +105,13 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### .NET Clients
 
-* [Apizr](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
-* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
-* [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
+* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
+* [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+* [Apizr](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### Generators
 
