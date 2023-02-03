@@ -103,6 +103,16 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [gopencils](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 * [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
+### .NET Clients
+
+* [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
+* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+* [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
+* [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+* [Apizr](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+
 ### Generators
 
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
