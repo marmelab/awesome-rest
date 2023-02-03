@@ -11,7 +11,7 @@ A collaborative list of great resources about RESTful API architecture, developm
   * [Node.js](#nodejs-clients)
   * [Ruby](#ruby-clients)
   * [Go](#go-clients)
-  * [.Net](##net-clients)
+  * [.Net](#net-clients)
   * [Generators](#generators)
 * [Servers](#servers)
   * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
