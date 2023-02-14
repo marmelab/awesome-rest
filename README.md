@@ -247,7 +247,12 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
+### Validating
+
+* [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
+
 ### Public REST APIs To Use In Tests
+
 * [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - The world's largest API repository.
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
