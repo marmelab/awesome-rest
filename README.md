@@ -62,7 +62,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [JSON API](https://jsonapi.org/) - Standard for building APIs in JSON.
 * [RAML](https://raml.org/) - Simple and succinct way to describe RESTful API.
-* [JSend](https://labs.omniti.com/labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
+* [JSend](https://github.com/omniti-labs/jsend) - Simple specification that lays down some rules for how JSON responses from web servers should be formatted.
 * [OData](https://www.odata.org/) - Open protocol to allow the creation and consumption of queryable and interoperable RESTful APIs. Quite complex.
 * [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
 * [JSON-LD](https://json-ld.org/) - Standard for describing Linked Data and hypermedia relations in JSON (W3C).
