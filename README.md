@@ -47,6 +47,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [How to GET a cup of coffee](https://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](https://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+* [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course about how REST APIs work, how to create them, and how to keep them secure.
 
 ### Guidelines
 
