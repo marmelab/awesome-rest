@@ -174,7 +174,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 * [flask-restful](https://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
-* [hug](https://www.hug.rest/) - Lightweight and fast API Framework.
 * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 * [restless](https://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [Python Eve](https://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
@@ -254,7 +253,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Public REST APIs To Use In Tests
 
 * [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
-* [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - The world's largest API repository.
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
