@@ -120,6 +120,10 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ## Servers
 
+### ASP.NET Core
+
+* [EISK Web Api](https://github.com/eisk/eisk.webapi) - ASP.NET Core templates with simple use cases to build scalable restful web api with architectural best practices (DDD, Onion Architecture etc). Supports swagger end points ([live demo](https://eiskwebapi.azurewebsites.net/)).
+
 ### Directly On Top Of A RMDB
 
 * [postgrest](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
