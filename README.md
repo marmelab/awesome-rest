@@ -150,6 +150,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 * [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio](https://github.com/apioo/fusio) - Open source API management platform.
+* [API Hat](https://apihat.com/) - The next generation API management platform, free for everyone to use!
 
 #### Symfony2
 
