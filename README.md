@@ -181,7 +181,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
 * [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
-* [Zato](https://zato.io) - Open-source IPaaS and enterprise, API-first platform for building server-side integrations, automations and API backends in Python. Supports REST and other protocols (SQL, Microsoft 365, Dataverse, Scheduler, Jira, Redis, MongoDB, LDAP, SOAP, shell commands and many more).
+* [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
 
 ### Ruby
 
@@ -249,7 +249,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Validating
 
 * [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
-* [Zato API Test](https://zato.io/en/docs/3.3/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 
 ### Public REST APIs To Use In Tests
 
