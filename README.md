@@ -181,6 +181,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3. 
 * [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 * [FastAPI](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+* [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
 
 ### Ruby
 
