@@ -245,6 +245,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+* [MockAPI-PHP](https://github.com/ka215/MockAPI-PHP) - Lightweight PHP-based mock API server with dynamic responses, polling, and OpenAPI 3.0 schema generation.
 
 ### Validating
 
