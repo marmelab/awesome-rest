@@ -268,6 +268,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 * [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
+* [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 
 ## API Gateway
 
@@ -278,6 +279,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 * [KrakenD](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
+* [Zuplo](https://zuplo.com/) - OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.
 
 ## SaaS Tools
 
