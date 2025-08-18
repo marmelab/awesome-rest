@@ -84,6 +84,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+* [Remult](https://github.com/remult/remult) - Type-safe frontend REST API client for TypeScript.
 
 ### Node.js Clients
 
@@ -137,6 +138,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Expressa](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 * [Nestjsx/crud](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+* [Remult](https://github.com/remult/remult) - A framework for full-stack TypeScript CRUD over a RESTful API.
 
 ### PHP
 
