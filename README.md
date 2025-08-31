@@ -84,6 +84,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+* [jin-frame](https://github.com/imjuni/jin-frame) - Type-safe, declarative HTTP requests as reusable TypeScript classes.
 
 ### Node.js Clients
 
