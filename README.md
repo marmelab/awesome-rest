@@ -210,6 +210,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [Chaos](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
+### Rust
+
+* [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - High-performance OpenAI-compatible REST API server for AI inference with GGUF + SafeTensors support.
 
 ### Haskell
 * [Rest for Haskell](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
