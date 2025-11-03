@@ -258,6 +258,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 * [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+* [REST Countries](https://restcountries.com/) - Public REST API about countries.
 
 ## Documentation
 
