@@ -252,7 +252,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Public REST APIs To Use In Tests
 
 * [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
-* [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+* [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
