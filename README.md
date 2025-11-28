@@ -244,6 +244,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+* [BitDive](https://bitdive.io/) - Zero-code mock generation from real API traffic. Captures runtime behavior and replays scenarios with automatic mocking for Java/Kotlin applications.
 
 ### Validating
 
