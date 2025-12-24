@@ -293,6 +293,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+* [Vedika](https://vedika.io) - AI-powered Vedic astrology API with natural language queries. Build astrology features into apps without domain expertise.
 
 ## Miscellaneous
 
