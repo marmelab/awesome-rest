@@ -235,15 +235,16 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Mocking
 
-* [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
-* [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [FakeRest](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+* [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
+* [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
+* [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
 
 ### Validating
 
@@ -251,13 +252,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Public REST APIs To Use In Tests
 
-* [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
-* [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
-* [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-* [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
-* [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+* [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
 ## Documentation
 
