@@ -36,8 +36,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## Design
 
-* [Architectural Styles and
-the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
+* [Architectural Styles and the Design of Network-based Software Architectures](https://roy.gbiv.com/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](https://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
@@ -155,7 +154,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [REST APIs with Symfony2: the Right Way](https://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - Complete guide to build a state-of-the-art REST API with Symfony2 framework.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 * [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
-* [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
@@ -197,7 +195,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 * [go-rest](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 * [go-restful](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
-* [Goat](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 
 ### Java
