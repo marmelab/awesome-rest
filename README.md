@@ -251,6 +251,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Public REST APIs To Use In Tests
 
+* [Vedika API](https://vedika.io) - REST API for Vedic astrology with AI chatbot, 108+ endpoints for birth charts, horoscopes, kundali matching, panchang, numerology, and more. Free sandbox available.
 * [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 * [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
