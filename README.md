@@ -251,7 +251,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-* [CoinPulse](https://coinpulse.dev) - Free REST API for cryptocurrency portfolio tracking with real-time prices and P/L calculations. Free tier: 25 req/hr.
+* [CoinPulse](https://coinpulse.fly.dev) - Free REST API for cryptocurrency portfolio tracking with real-time prices and P/L calculations. Free tier: 25 req/hr.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
 ## Documentation
