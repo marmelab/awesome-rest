@@ -232,6 +232,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Mocking
 
+* [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for capturing, replaying, and troubleshooting inbound webhook/API events in real time.
 * [FakeRest](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
