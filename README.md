@@ -235,7 +235,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [FakeRest](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
-* [Webhook Inspector](VERCEL_URL_PLACEHOLDER) - Free webhook testing and inspection tool. Create an instant inbox URL, send any HTTP request to it, and inspect headers, body, and query params in real-time. No signup required. RequestBin alternative.
+* [Webhook Inspector](https://webhook-inspector-landing-deploy.vercel.app) - Free webhook testing and inspection tool. Create an instant inbox URL, send any HTTP request to it, and inspect headers, body, and query params in real-time. No signup required. RequestBin alternative.
 * [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
