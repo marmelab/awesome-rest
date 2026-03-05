@@ -265,6 +265,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## API Gateway
 
+* [Agent Gateway](https://api-catalog-three.vercel.app) - Unified REST API gateway providing 40+ services (geolocation, crypto, scraping, screenshots, DNS, code execution) with one API key and pay-per-request pricing.
+
 * [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
