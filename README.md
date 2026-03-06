@@ -252,6 +252,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
+* [ProofBets API](https://proofbets.com/developers/) - 16-endpoint REST API for crypto casino data with OpenAPI 3.1 spec, ETags, RFC 9457 errors, and rate limit headers. Free tier available.
 
 ## Documentation
 
