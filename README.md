@@ -287,6 +287,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+* [Xquik](https://xquik.com) - X (Twitter) real-time data REST API with 76 endpoints for tweet search, user lookup, follower extraction, account monitoring, and HMAC-signed webhooks.
 
 ## Miscellaneous
 
