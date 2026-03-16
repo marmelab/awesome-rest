@@ -2,6 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- Do not add your REST API to the list. This is not a registry of all possible REST APIs, but a list of reources and tools to build and use REST APIs effectively 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
