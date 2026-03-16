@@ -249,7 +249,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Public REST APIs To Use In Tests
 
-* [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+* [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
 
