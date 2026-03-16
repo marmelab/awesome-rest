@@ -249,6 +249,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Public REST APIs To Use In Tests
 
+* [Foglift Scan API](https://foglift.io/developers) - Free REST API to analyze any website's SEO, performance, security, and AI search readiness. Returns JSON with scores and issues.
 * [Public APIS](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
