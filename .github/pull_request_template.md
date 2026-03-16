@@ -1,12 +1,14 @@
-# Contribution Guidelines
+**Do not add your API**. This registry helps developers discover tools and good practices for building and consuming REST APIs. It is not a copllection of public facing APIs. 
 
-Please ensure your pull request adheres to the following guidelines:
+**Do not add links to young tools**. This repository isn't a way to boost your Product Hunt visibility. If you launched a new tool, wait before it proves that it's widely useful before proposing it. 
 
-- Do not add your REST API to the list. This is not a registry of all possible REST APIs, but a list of reources and tools to build and use REST APIs effectively 
+Any PR disregarding these rules will be closed. 
+
+If you have a genuine tool or resource to propose, please ensure your pull request adheres to the following guidelines:
+
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-- A link back to this list from yours, so users can discover more lists, would be appreciated.
 - Make an individual pull request for each suggestion.
 - Titles should be capitalized.
 - Use the following format: `[List Name](link)`
@@ -25,4 +27,4 @@ Link format:
                                     dash capital letter, no article                           Full stop
 ```
 
-Thank you for your suggestions!
+
