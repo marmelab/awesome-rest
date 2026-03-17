@@ -242,10 +242,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 * [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+* [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly.
 
 ### Validating
 
 * [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
+* [ApiNotes](https://apinotes.io/openapi-validator) - Free Online OpenAPI 3.1 & Swagger Validator
 
 ### Public REST APIs To Use In Tests
 
@@ -262,6 +264,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 * [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
+* [ApiNotes](https://apinotes.io/) - Drop your OpenAPI spec, pick a URL, and get beautiful interactive API documentation instantly.
 
 ## API Gateway
 
