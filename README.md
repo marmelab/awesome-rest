@@ -252,6 +252,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
+* [SnapAPI](https://api-snap.com) - Bundled utility APIs (QR codes, screenshots, PDFs, email validation, IP geolocation, and more) with a single REST endpoint and API key.
 
 ## Documentation
 
