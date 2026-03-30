@@ -289,6 +289,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+* [Scalekit](https://scalekit.com/) - Enterprise auth for APIs and AI workloads: OAuth 2.1, API keys, M2M credentials, SAML/OIDC SSO, SCIM, MCP server authorization, and Agent Auth for delegated access to third-party REST APIs.
 
 ## Miscellaneous
 
