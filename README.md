@@ -260,9 +260,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [raml2html](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) - OpenAPI/Swagger-powered three-panel documentation.
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
-* [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 * [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
+* [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 
 ## API Gateway
 
