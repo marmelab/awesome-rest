@@ -252,6 +252,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
+* [ToolPipe](https://toolpipe.dev/) - Free developer utility API with 145+ endpoints: JSON formatting, hashing, UUID generation, QR codes, DNS lookup, JWT decode, regex testing, and more.
 
 ## Documentation
 
