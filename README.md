@@ -26,6 +26,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Testing](#testing)
   * [Querying](#querying)
   * [Mocking](#mocking)
+  * [Debugging Proxies](#debugging-proxies)
   * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
 * [Documentation](#documentation)
 * [API Gateway](#api-gateway)
@@ -229,6 +230,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Schemathesis](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 * [Step CI](https://github.com/stepci/stepci) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec.
 * [RestQA](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
+* [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
+* [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
+* [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
 
 ### Mocking
 
@@ -242,6 +246,12 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 * [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+
+### Debugging Proxies
+
+* [mitmproxy](https://mitmproxy.org/) - Free, open-source interactive HTTPS proxy for debugging API traffic.
+* [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor for inspecting API traffic on Windows, Mac, and Linux.
+* [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy tool by Telerik/Progress.
 
 ### Validating
 
@@ -263,6 +273,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
+* [Stoplight](https://stoplight.io/) - Design-first API platform with visual OpenAPI editor, documentation, and mocking.
 
 ## API Gateway
 
@@ -289,6 +300,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
+* [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
+* [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
 
 ## Miscellaneous
 
