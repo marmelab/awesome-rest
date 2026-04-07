@@ -89,6 +89,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
  * [restler](https://github.com/danwrong/restler) - REST client library for node.js.
  * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+ * [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine CLI. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations via REST APIs. JSON output, agent-native.
 
 ### Ruby Clients
 
