@@ -298,6 +298,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
+* [BulkPublish](https://www.bulkpublish.com) - Social media publishing REST API for 11 platforms with OpenAPI spec, Python & Node.js SDKs, and workflow integrations (Zapier, n8n, Make, IFTTT).
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
 * [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
