@@ -242,6 +242,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
 * [Request Baskets](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+* [Webhook Debugger, Logger & API Mocking Suite](https://github.com/ar27111994/webhook-debugger-logger) - Inspect webhook/API requests, replay deliveries, and simulate callback responses with signature verification and live logs.
 * [DuckRails](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
@@ -317,3 +318,4 @@ A collaborative list of great resources about RESTful API architecture, developm
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](httsp://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
