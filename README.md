@@ -117,6 +117,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Generators
 
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [har2sdk](https://har2sdk.vercel.app/) - Paste a browser HAR (Chrome / Firefox network export) and generate a typed TypeScript fetch SDK with semantic method names, resource grouping, and auth detection. No OpenAPI spec required.
 
 ## Servers
 
