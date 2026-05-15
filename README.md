@@ -262,6 +262,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Slate](https://github.com/lord/slate) - Beautiful and responsive three-panel API documentation using Middleman.
 * [Optic](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
+* [Sourcey](https://sourcey.com/) - Static documentation generator from OpenAPI, MCP, Doxygen, godoc, and Markdown sources.
 
 ## API Gateway
 
