@@ -4,6 +4,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Design](#design)
   * [Guidelines](#guidelines)
+  * [Query filtering](#query-filtering)
 * [Standards](#standards)
 * [Clients](#clients)
   * [PHP](#php-clients)
@@ -57,6 +58,10 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
 * [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
 * [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+
+### Query filtering
+
+* [qast](https://github.com/hocestnonsatis/qast) - Zero-dependency library to parse human-readable filter query strings into ORM-compatible filters for Prisma, TypeORM, Sequelize, and more.
 
 ## Standards
 
