@@ -149,6 +149,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [phprest](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 * [Hateoas](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio](https://github.com/apioo/fusio) - Open source API management platform.
+* [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted Laravel CMS with a REST API v1 (42 endpoints), HMAC webhooks, and a React 19 + shadcn/ui admin panel.
 
 #### Symfony2
 
