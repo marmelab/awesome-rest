@@ -290,6 +290,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Nango](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+* [AIFast Model Check](https://docs.aifast.club/en/model-check/) - Browser-based compatibility testing for OpenAI-compatible APIs, covering model declarations, token metadata, SSE streaming, tool calls, and randomized probes.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
 * [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 * [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
