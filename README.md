@@ -233,6 +233,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
 * [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
 * [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
+* [Mongrel](https://www.visorcraft.com/) - Desktop API client for HTTP/REST, GraphQL, WebSocket, and gRPC with environments, auth, and cURL/Postman/Insomnia import, built into a database workbench. Proprietary with a free trial.
 
 ### Mocking
 
