@@ -252,6 +252,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [mitmproxy](https://mitmproxy.org/) - Free, open-source interactive HTTPS proxy for debugging API traffic.
 * [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor for inspecting API traffic on Windows, Mac, and Linux.
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy tool by Telerik/Progress.
+* [Moni Proxy](https://moniproxy.com) - Mobile-first HTTP/HTTPS debugging proxy to capture, inspect, mock and replay API traffic on iOS and Android, no computer required.
 
 ### Validating
 
