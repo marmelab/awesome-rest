@@ -233,6 +233,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
 * [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
 * [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
+* [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent that exercises natural-language web and mobile user flows around REST-backed applications with persistent test memory.
 
 ### Mocking
 
