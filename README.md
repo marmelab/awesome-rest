@@ -251,8 +251,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 * [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
-* [CoinPaprika](https://api.coinpaprika.com) - Free cryptocurrency market data REST API with 7,000+ coins, tickers, exchanges, and OHLCV. No authentication required.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
+* [CoinPaprika](https://api.coinpaprika.com) - Cryptocurrency market data REST API covering 12,000+ coins, 350+ exchanges, tickers and OHLCV. Free tier, no API key required.
 
 ## Documentation
 
