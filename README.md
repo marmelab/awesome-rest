@@ -255,6 +255,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Validating
 
+* [DriftWire](https://github.com/Haswell119/driftwire) - Zero-dependency Python CLI for API contract drift: detect breaking changes between two OpenAPI specs, or check a live API against its OpenAPI schema.
 * [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
 
 ### Public REST APIs To Use In Tests
