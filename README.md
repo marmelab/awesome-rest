@@ -274,6 +274,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Zudoku](https://zudoku.dev/) - Create clean, consistent API docs with Zudoku — open source, extensible, and developer-first
 * [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. Static HTML output.
 * [Stoplight](https://stoplight.io/) - Design-first API platform with visual OpenAPI editor, documentation, and mocking.
+* [Cortex](https://github.com/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from OpenAPI and other API specification formats.
 
 ## API Gateway
 
