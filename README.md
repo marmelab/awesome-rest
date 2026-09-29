@@ -302,6 +302,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
 * [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
 * [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
+* [Twinbay](https://twinbay.ai/) - Stateful replicas of third-party APIs for integration testing, with editable records and request logs.
 
 ## Miscellaneous
 
