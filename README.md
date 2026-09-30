@@ -246,6 +246,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 * [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 * [Mockae](https://mockae.com/) - Fake REST API powered by Lua.
+* [MockRelay](https://github.com/sswivell/mock-relay) - Local HTTP proxy that records real API traffic to JSON fixtures and replays them offline, with ranked fixture matching so the most specific response wins.
 
 ### Debugging Proxies
 
