@@ -119,6 +119,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 ## Servers
+* [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) - Pay-per-call REST service for browser automation and stealth scraping, settled in Nano (XNO) via x402; no account or API key.
 
 ### Directly On Top Of A RMDB
 
