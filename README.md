@@ -286,6 +286,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middleware. Written in Go.
 * [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 * [Zuplo](https://zuplo.com/) - OpenAPI-Powered API & MCP Management platform for Security, Deployment, and Documentation. Add auth, rate-limiting, and monetization to your API or MCP Server in minutes, written in TypeScript & Go.
+* [Speakeasy](https://www.speakeasy.com/) - AI control plane that turns OpenAPI-described REST APIs into governed MCP tools, with identity-based access, security policies, and audit logs.
 
 ## SaaS Tools
 
