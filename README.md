@@ -117,6 +117,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Generators
 
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator (Go)](https://github.com/xseman/openapi-generator) - Go port of the OpenAPI Generator CLI as a single binary without a JVM, generating TypeScript, Dart and Go clients from an OpenAPI Spec (v2, v3).
 
 ## Servers
 
