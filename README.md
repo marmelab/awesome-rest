@@ -262,6 +262,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Public APIs](https://publicapis.dev/) - The world's largest directory of public APIs.
 * [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Fake REST API abput posts, users and comments
+* [KaijuConverter API](https://kaijuconverter.com/api-docs) - Public RESTful API and MCP server for testing multi-format file conversion, format detection, and OCR across 201+ formats.
 
 ## Documentation
 
