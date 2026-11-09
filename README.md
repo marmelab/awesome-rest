@@ -47,6 +47,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [How to GET a cup of coffee](https://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](https://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+* [Handling HTTP 429 Without a Retry Storm](https://sifting.io/blog/market-data-api-rate-limits-handle-http-429-without-retry-storm) - Distinguishes temporary rate limits from exhausted quotas and demonstrates bounded retries with jitter and Retry-After.
 
 ### Guidelines
 
