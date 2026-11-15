@@ -289,6 +289,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ## SaaS Tools
 
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts.
+
 * [Nango](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 * [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 * [Keploy](https://keploy.io) - Open-source API testing and data mocking tool that generates test cases and stubs automatically from real traffic, enabling end-to-end API testing and monitoring.
