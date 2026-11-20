@@ -233,6 +233,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Postman](https://www.postman.com/) - Cross-platform API development and testing platform.
 * [SoapUI](https://www.soapui.org/) - Cross-platform API testing tool for REST and SOAP APIs.
 * [RapidAPI](https://paw.cloud/) - Full-featured HTTP client for macOS.
+* [Plainwire](https://github.com/janwan2003/vscode-api-client) - VS Code extension and command line runner for plain `.http` request files, with checks that run in CI.
 
 ### Mocking
 
