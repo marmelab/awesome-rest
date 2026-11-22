@@ -256,6 +256,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Validating
 
 * [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
+* [SpecGate](https://github.com/profalexandrezamboni-ui/specgate-action) - Deterministic OpenAPI 3.x & JSON Schema breaking-change CI gate, SemVer bump calculator, and OASIS SARIF v2.1.0 GitHub Action (MIT).
 
 ### Public REST APIs To Use In Tests
 
