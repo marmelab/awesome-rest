@@ -80,8 +80,6 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### JavaScript Clients
 
-* [restangular](https://github.com/mgonto/restangular) - AngularJS service to handle REST API properly and easily.
-* [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - A Hypermedia API/HATEOAS Client for Node.js and the Browser
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
 * [HyperFetch](https://github.com/BetterTyped/hyper-fetch) - Type-safe TypeScript client for REST APIs with caching, retries, request deduplication, offline queue and React hooks.
