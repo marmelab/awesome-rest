@@ -302,7 +302,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [BlazeMeter](https://www.blazemeter.com/) - Continuous testing platform for API performance and load testing at scale.
 * [Loader.io](https://loader.io/) - Free cloud-based load testing service for APIs.
 
-## Miscellaneous
+* [Sheet2API](https://sheet2api.com/) - Turn Google Sheets and Excel Online workbooks into REST API endpoints.  ## Miscellaneous
 
 * [shadcn-admin-kit](https://github.com/marmelab/shadcn-admin-kit) - Build internal tools, admin panels, B2B apps, and dashboards on top of any REST API
 * [react-admin](https://github.com/marmelab/react-admin) - Add a ReactJS admin GUI to any RESTful API.
