@@ -88,6 +88,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
  * [restler](https://github.com/danwrong/restler) - REST client library for node.js.
  * [unirest for Node.js](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+ * [open-ratelimit-registry](https://github.com/Burakceliks/open-ratelimit-registry) - Machine-readable YAML registry and zero-dependency JS/Python parsers for HTTP API rate-limit headers.
 
 ### Ruby Clients
 
