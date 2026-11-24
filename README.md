@@ -69,6 +69,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [Hydra](https://www.hydra-cg.com/) - Vocabulary for Hypermedia-Driven Web APIs (W3C).
 * [Schema.org](https://schema.org) - Collection of schemas describing common data models.
 * [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
+- [Scalar](https://github.com/scalar/scalar) - Beautiful OpenAPI API documentation.
 
 ## Clients
 
