@@ -47,6 +47,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 * [How to GET a cup of coffee](https://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](https://www.restapitutorial.com/) - RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available to enable quick reference and self education for the development crafts-person.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+* [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Apache-2.0 interactive payment-rail workbench illustrating idempotency keys, webhook reconciliation, and transactional API state machines.
 
 ### Guidelines
 
