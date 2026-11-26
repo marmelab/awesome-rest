@@ -255,6 +255,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Validating
 
 * [JSON Schema](http://json-schema.org/) - Declarative language that allows you to annotate and validate JSON documents
+* [SpecDiff](https://github.com/Gong-shijie/specdiff) - Client-side, zero-upload OpenAPI 2.0/3.0/3.1 breaking-change diff, OWASP API Top 10 auditor, and SARIF 2.1.0 CLI/GitHub Action.
 
 ### Public REST APIs To Use In Tests
 
